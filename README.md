@@ -4,3 +4,6 @@ All data was from: https://data.world/sportsvizsunday/june-2020-nba-shots-1997-2
 
   Scrapped by Zak Geis: https://public.tableau.com/profile/zakgeis#!/
 
+
+Please first read the 'EDA & Early Model' notebook first and then follow into the 'NBA Shots' notebook. 
+
