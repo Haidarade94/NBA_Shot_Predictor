@@ -7,3 +7,4 @@ All data was from: https://data.world/sportsvizsunday/june-2020-nba-shots-1997-2
 
 Please first read the 'EDA & Early Model' notebook first and then follow into the 'NBA Shots' notebook. 
 
+Feel free to check my presentation also in the repo as a PowerPoint Presentation
